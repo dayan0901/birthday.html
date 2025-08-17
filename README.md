@@ -1,5 +1,3 @@
-[dayan.html](https://github.com/user-attachments/files/21824081/dayan.html)# birthday.html
-my first code today
 [Uploading d<!DOCTYPE html>
 <html lang="en">
 <head>
